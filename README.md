@@ -1,1 +1,3 @@
 # Teste_A-B_Concpet
+
+This is a simple teste A/B concept using Numpy np.random() to create datas...
